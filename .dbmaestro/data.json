@@ -1,0 +1,44 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "8d4b68da-c799-4390-972b-06a7115857ed",
+        "ProjectName": "dbm_elev",
+        "DBTypeName": "Oracle",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {
+            "MetadataConfiguration": {},
+            "ValidationConfiguration": {},
+            "BuildConfiguration": {}
+          },
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "NumberOfDaysBuildByTaskIsRelevant": 30,
+          "PreventCommitObjectWithConflict": false,
+          "SaveObjectScopeAtProjectLevel": null,
+          "UseCache": null,
+          "IgnoreTextualChangesBasedOnMetadata": true
+        },
+        "ProjectArchitecture": 1,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "berkeoz",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null,
+      "DatabasesScopeObjects": null
+    }
+  ],
+  "GlobalConfigurations": null,
+  "RepositoryConfiguration": null,
+  "GeneralConfigurations": {
+    "SupportMultiDatabasePerProject": false,
+    "SaveObjectScopeAtProjectLevel": true
+  }
+}
